@@ -1,0 +1,16 @@
+:root {
+    --cordobackground: #ffff;
+    --cordostextos: #0000;
+}
+
+body {
+
+    background-color: var(--cordobackground);
+    
+}
+
+header {
+
+    
+
+}
